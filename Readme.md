@@ -6,7 +6,7 @@ I. Prerequisites
 
 1.Download and install Anaconda (Download link: https://www.anaconda.com/).
 
-2.Download the code compressed package chatcof_interactive.zip (Download link:https://github.com/wchou93/chatcof_interactive).
+2.Download the code compressed package chatcof_interactive.zip (Download link:https://github.com/wchou93/hainanucof_interactive).
 
 3.Create a folder at any location (e.g., a "Jupyter" folder on your desktop), place the compressed package into it, and extract the contents.
 
